@@ -4,6 +4,8 @@
 
 ɪᴛ ɪꜱ ᴏɴʟʏ ᴍᴀᴅᴇᴅ ꜰᴏʀ ʟᴀᴢʏ ᴘᴇᴏᴘʟᴇ'ꜱ ᴡʜᴏ ᴅᴏɴᴛ ᴡᴀɴᴛ ᴛᴏ ᴡᴀꜱᴛᴇ ᴛʜᴇɪʀ ᴘʀᴇᴄɪᴏᴜꜱ ᴛɪᴍᴇ
 
-[!image](https://te.legra.ph/file/9d6f09ba6c4a194e137e6.jpg)
+
+<p align="center"><a href="https://t.me/mongo_db_url_bot"><img src="https://te.legra.ph/file/9d6f09ba6c4a194e137e6.jpg" width="300"></a></p>
+<p align="center">
 
 
