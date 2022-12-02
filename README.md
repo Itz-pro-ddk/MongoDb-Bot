@@ -8,4 +8,7 @@
 <p align="center"><a href="https://t.me/mongo_db_url_bot"><img src="https://te.legra.ph/file/9d6f09ba6c4a194e137e6.jpg" width="300"></a></p>
 <p align="center">
 
+### 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 𝐃𝐞𝐩𝐥𝐨𝐲
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/itz-pro-ddk/Mongodb-bot&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+
 
