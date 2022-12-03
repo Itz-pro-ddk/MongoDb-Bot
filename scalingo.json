@@ -5,8 +5,8 @@
     "repository": "https://github.com/itz-pro-ddk/Mongodb-bot",
   "stack": "container",
     "env": {
-        "Main Mongo": {
-            "description": "fill with a mongo db that bot generate",
+        "System": {
+            "description": "Leave as it is",
             "required": true
         },
         "Changers": {
